@@ -19,7 +19,7 @@ I have expertise in:-
 - MySQl,
 - REST API/ API Development/Integration
 - GIT
-I'm currently **learning** :-
+-I'm currently **learning** :
 - Android App Development using Java 
 - CI & CD
 - Best practices for delivering high perfomance software
